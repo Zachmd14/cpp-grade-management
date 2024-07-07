@@ -6,11 +6,11 @@ simple grade management system made in c++ for learning purposes
 #### 1. **Define the Project Requirements**
 
 - **Functional Requirements**:
-  - Add a new student.
-  - View a list of all students.
-  - Add grades to a student's file.
-  - Calculate the average grade for a student.
-  - Display student information and grades.
+  - [ ] Add a new student.
+  - [ ] View a list of all students.
+  - [ ] Add grades to a student's file.
+  - [ ] Calculate the average grade for a student.
+  - [ ] Display student information and grades.
 
 - **Non-Functional Requirements**:
   - Use file I/O for data persistence.
