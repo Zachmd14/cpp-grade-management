@@ -1,18 +1,20 @@
 #include <iostream>
+#include <vector>
+
 using namespace std;
 
 class Student {
 public:
-  int age;
+  string name;
+  int ID;
+  vector<int> grades;
 };
 
 int main(int argc, char *argv[]) {
   // Your code here
   Student Zachary;
 
-  Zachary.age = 17;
+  Zachary.
 
-  cout << Zachary.age << "\n";
-
-  return 0;
+      return 0;
 }
