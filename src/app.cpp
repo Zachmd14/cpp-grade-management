@@ -14,7 +14,8 @@ int main(int argc, char *argv[]) {
   // Your code here
   Student Zachary;
 
-  Zachary.
+  cout << "Hola todos !!!" << endl;
+  // Zachary.
 
-      return 0;
+  return 0;
 }
